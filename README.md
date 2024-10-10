@@ -6,4 +6,4 @@
 
 ### 目录
 
-0-1 关于Linux的介绍[00.Knowleadge Of Linux/01.What is Linux.md]
+[0-1 关于Linux的介绍](00.Knowleadge Of Linux/01.What is Linux.md)
