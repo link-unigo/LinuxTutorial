@@ -6,4 +6,5 @@
 
 ### 目录
 
-- [0-1 关于Linux的介绍](/00.Knowleadge%20Of%20Linux/01.What%20is%20Linux.md)
+- [0-1 了解一下什么是Linux](/00.Knowleadge%20Of%20Linux/01.What%20is%20Linux.md)
+- [0-2 了解一下Linux发展到现在经历了什么](/00.Knowleadge%20Of%20Linux/02.The%20Growth%20Journey%20of%20Linux.md)
